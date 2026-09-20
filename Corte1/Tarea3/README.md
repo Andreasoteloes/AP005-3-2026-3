@@ -1,0 +1,27 @@
+# Tarea 3 - Programación Aplicada
+
+Esta es la carpeta para la tercera tarea. A continuación encuentras los enlaces directos para abrir cada cuaderno en Google Colab:
+
+* **Udmy:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy.ipynb)
+* **Udmy 2:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy2.ipynb)
+* **Udmy 3:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy3.ipynb)
+* **Udmy 4:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy4.ipynb)
+* **Udmy 5:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy5.ipynb)
+* **Udmy 6:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy6.ipynb)
+* **Udmy 7:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy7.ipynb)
+* **Udmy 8:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy8.ipynb)
+* **Udmy 9:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy9.ipynb)
+* **Udmy 10:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy10.ipynb)
+* **Udmy 11:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy11.ipynb)
+* **Udmy 12:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy12.ipynb)
+* **Udmy 13:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy13.ipynb)
+* **Udmy 14:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy14.ipynb)
+* **Udmy 15:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy15.ipynb)
+* **Udmy 16-1:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy16-1.ipynb)
+* **Udmy 16-2:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy16-2.ipynb)
+* **Udmy 16-3:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy16-3.ipynb)
+* **Udmy 17-1:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy17-1.ipynb)
+* **Udmy 17-2:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy17-2.ipynb)
+* **Udmy 18-1:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy18-1.ipynb)
+* **Udmy 18-2:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy18-2.ipynb)
+* **Udmy 19:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy19.ipynb)
