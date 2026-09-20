@@ -1,6 +1,6 @@
 # Tarea 3 - Programación Aplicada
 
-Esta es la carpeta para la tercera tarea. A continuación encuentras los enlaces directos para abrir cada cuaderno en Google Colab:
+Esta es la carpeta para la tercera tarea: Comentar con Markdown cada código 'udmy'. A continuación encuentras los enlaces directos para abrir cada cuaderno en Google Colab:
 
 * **Udmy:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy.ipynb)
 * **Udmy 2:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea3/Udmy2.ipynb)
