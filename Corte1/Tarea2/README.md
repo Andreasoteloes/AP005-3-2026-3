@@ -1,6 +1,7 @@
 # Tarea 2 - Programación Aplicada
 
-Esta es la carpeta para la segunda tarea de programación aplicada. A continuación encuentras los enlaces directos para abrir cada cuaderno en Google Colab:
+Esta es la carpeta para la segunda tarea de programación aplicada: Comentar cada línea en los códigos.
+A continuación encuentras los enlaces directos para abrir cada cuaderno en Google Colab:
 
 * **Diccionario 1:** 
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andreasoteloes/AP005-3-2026-3/blob/main/Corte1/Tarea2/Diccionario1.ipynb)
